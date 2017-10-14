@@ -1,0 +1,17 @@
+c:\users\black\documents\visual studio 2012\Projects\Imgur Offline\Imgur Offline\bin\Debug\Imgur Offline.exe.config
+C:\Users\black\Documents\Visual Studio 2012\Projects\Imgur Offline\Imgur Offline\bin\Debug\Imgur Offline.exe
+C:\Users\black\Documents\Visual Studio 2012\Projects\Imgur Offline\Imgur Offline\bin\Debug\Imgur Offline.pdb
+C:\Users\black\Documents\Visual Studio 2012\Projects\Imgur Offline\Imgur Offline\bin\Debug\ImgurSharp.dll
+C:\Users\black\Documents\Visual Studio 2012\Projects\Imgur Offline\Imgur Offline\bin\Debug\Newtonsoft.Json.dll
+C:\Users\black\Documents\Visual Studio 2012\Projects\Imgur Offline\Imgur Offline\bin\Debug\System.Net.Http.Extensions.dll
+C:\Users\black\Documents\Visual Studio 2012\Projects\Imgur Offline\Imgur Offline\bin\Debug\System.Net.Http.Primitives.dll
+C:\Users\black\Documents\Visual Studio 2012\Projects\Imgur Offline\Imgur Offline\bin\Debug\ImgurSharp.pdb
+C:\Users\black\Documents\Visual Studio 2012\Projects\Imgur Offline\Imgur Offline\bin\Debug\Newtonsoft.Json.xml
+C:\Users\black\Documents\Visual Studio 2012\Projects\Imgur Offline\Imgur Offline\bin\Debug\System.Net.Http.Extensions.xml
+C:\Users\black\Documents\Visual Studio 2012\Projects\Imgur Offline\Imgur Offline\bin\Debug\System.Net.Http.Primitives.xml
+C:\Users\black\Documents\Visual Studio 2012\Projects\Imgur Offline\Imgur Offline\obj\Debug\Imgur Offline.csprojResolveAssemblyReference.cache
+C:\Users\black\Documents\Visual Studio 2012\Projects\Imgur Offline\Imgur Offline\obj\Debug\Imgur_Offline.Properties.Resources.resources
+C:\Users\black\Documents\Visual Studio 2012\Projects\Imgur Offline\Imgur Offline\obj\Debug\Imgur Offline.csproj.GenerateResource.Cache
+C:\Users\black\Documents\Visual Studio 2012\Projects\Imgur Offline\Imgur Offline\obj\Debug\Imgur Offline.exe
+C:\Users\black\Documents\Visual Studio 2012\Projects\Imgur Offline\Imgur Offline\obj\Debug\Imgur Offline.pdb
+C:\Users\black\Documents\Visual Studio 2012\Projects\Imgur Offline\Imgur Offline\obj\Debug\Imgur_Offline.Form1.resources
