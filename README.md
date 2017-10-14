@@ -3,7 +3,7 @@
 
 #### Features:
 * Auto Folders
-* Duplicate Detection (Experimental)
+* Duplicate Detection
 * Albums Only Option
 * Auto Mode
 * Minimal
