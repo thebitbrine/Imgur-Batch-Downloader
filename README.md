@@ -1,4 +1,4 @@
-# Imgur-Batch-Downloader
+# Imgur Batch Downloader
 ### Basic Auto Batch Image Downloader For Imgur Written In C#
 
 #### Features:
