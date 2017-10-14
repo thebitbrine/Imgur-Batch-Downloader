@@ -8,6 +8,8 @@
 * Auto Mode
 * Minimal
 * Minimum Image Count (For Albums)
+* Auto Crash
+* Buggy
 
 
 ### Screenshot:
